@@ -9,3 +9,6 @@ body {
 ul {
   list-style: none;
 }
+.image {
+  border: 3px solid black;
+}
