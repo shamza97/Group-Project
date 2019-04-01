@@ -12,3 +12,10 @@ ul {
 .image {
   border: 3px solid black;
 }
+img.circle  {
+  class="rest0"
+  display: flex;
+  padding:20px;
+  margin: 0 auto;
+  border-radius: 130px;
+}
